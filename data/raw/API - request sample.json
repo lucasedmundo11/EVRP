@@ -1,0 +1,522 @@
+{
+    "places": [
+      {
+        "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4",
+        "id": "ChIJ-3SYLeVZzpQRDgI-z2sD7C4",
+        "types": [
+          "electric_vehicle_charging_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "formattedAddress": "Av. Angélica, 2133 - Consolação, São Paulo - SP, 01227-200, Brazil",
+        "addressComponents": [
+          {
+            "longText": "2133",
+            "shortText": "2133",
+            "types": [
+              "street_number"
+            ],
+            "languageCode": "en-US"
+          },
+          {
+            "longText": "Avenida Angélica",
+            "shortText": "Av. Angélica",
+            "types": [
+              "route"
+            ],
+            "languageCode": "pt"
+          },
+          {
+            "longText": "Consolação",
+            "shortText": "Consolação",
+            "types": [
+              "sublocality_level_1",
+              "sublocality",
+              "political"
+            ],
+            "languageCode": "pt"
+          },
+          {
+            "longText": "São Paulo",
+            "shortText": "São Paulo",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ],
+            "languageCode": "pt"
+          },
+          {
+            "longText": "São Paulo",
+            "shortText": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ],
+            "languageCode": "pt"
+          },
+          {
+            "longText": "Brazil",
+            "shortText": "BR",
+            "types": [
+              "country",
+              "political"
+            ],
+            "languageCode": "en"
+          },
+          {
+            "longText": "01227-200",
+            "shortText": "01227-200",
+            "types": [
+              "postal_code"
+            ],
+            "languageCode": "en-US"
+          }
+        ],
+        "plusCode": {
+          "globalCode": "588MC8XQ+GX",
+          "compoundCode": "C8XQ+GX Consolação, São Paulo - State of São Paulo, Brazil"
+        },
+        "location": {
+          "latitude": -23.551172899999997,
+          "longitude": -46.6601192
+        },
+        "viewport": {
+          "low": {
+            "latitude": -23.5524827302915,
+            "longitude": -46.6615969802915
+          },
+          "high": {
+            "latitude": -23.5497847697085,
+            "longitude": -46.6588990197085
+          }
+        },
+        "googleMapsUri": "https://maps.google.com/?cid=3381081181821731342",
+        "regularOpeningHours": {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ]
+        },
+        "utcOffsetMinutes": -180,
+        "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eAv. Angélica, 2133\u003c/span\u003e - \u003cspan class=\"extended-address\"\u003eConsolação\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSão Paulo\u003c/span\u003e - \u003cspan class=\"region\"\u003eSP\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e01227-200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBrazil\u003c/span\u003e",
+        "businessStatus": "OPERATIONAL",
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+          "text": "Electric Vehicle Charging Station",
+          "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+          "text": "Electric Vehicle Charging Station",
+          "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 5,
+                "hour": 0,
+                "minute": 0,
+                "truncated": true,
+                "date": {
+                  "year": 2024,
+                  "month": 11,
+                  "day": 1
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 23,
+                "minute": 59,
+                "truncated": true,
+                "date": {
+                  "year": 2024,
+                  "month": 11,
+                  "day": 7
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ]
+        },
+        "primaryType": "electric_vehicle_charging_station",
+        "shortFormattedAddress": "Av. Angélica, 2133 - Consolação, São Paulo",
+        "photos": [
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DPX21cZo29JjGrjofbFfA9hVfDcrXvnc4jP2VBBYc6rCR0djRam3-tDkD3pyQLE_WMnq5z20Fnaw7dBORZcljRMJUxWmsr60vaP52PceeOcNsrcF5ufsJhAgkzXKK0uuCY3QY0lkI8X18m6zoB5f6bBjDvI75aKordP",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipOtESNrXhWrCWvQ-7Xw6gtnpdAiKm6bRbPBB9Hu&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOtESNrXhWrCWvQ-7Xw6gtnpdAiKm6bRbPBB9Hu!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DM3sHRYpWACa1C_cdu8jlgNxuZw1GIYSnSjNYSbBlkdF9S0zvXyc9uA1juhkwJnmS_Yka4z1gDefBxXhkqT54rEIygeM6C2CVy9b5BpDWmxpYoN6HHKWIMZSr5VX_crKFjuIBi9yAc5WKd5wotPtM-v2qOod1nzqnVk",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipOPvw55nu7PJ7rdH0Lt3GHpvHjeeW8nDOwa1pc5&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOPvw55nu7PJ7rdH0Lt3GHpvHjeeW8nDOwa1pc5!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DNfHDVeN9KePl-cJf21XIEfhenz3nAAVcXPosFjlPgk-U3wvmfe3uvGRbc2jc2ib8bTfLUslbJCgCvolVKDqQF3wOGoahmhlypTrkm5aKDn0BFxOloZYyHC8-r4gsM-u02vP3ifXg72g5sdn7WJpFyEUeHDhXQocAC-",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipPpdwvBPudlv225-voy6eUyz05HACG2-tkkjY6S&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPpdwvBPudlv225-voy6eUyz05HACG2-tkkjY6S!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DOaERtRWswLXvEY4rttMFwUNDs641GmkCUW1_SIcMHex2ZmrvBnIg4W2gkxjuWbRNs85hrUKX2dRtzKIJzB7qF8dGYMnswJ5gpNh9Ih8pAhQF0Puf4-DE3Khqx60YsjN3usPcsjzbSbBLoLm_4pYRo8BGz9fyUoSRRu",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipP4LXCFhynZYCQaeZv5xbi3qeXJyUEtiAFlKOaM&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4LXCFhynZYCQaeZv5xbi3qeXJyUEtiAFlKOaM!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DO8VgQgG9AM7_noFm2ooI5gNo0MXt15FSNmehR6CQ67icNznn_9byfrFdCCKsBH_DGQZIknAmb7HYTDzgCklDxVEKrmjWg0YRcHzrbktDXHJuqPvPekhF-zfDKEoNqDtKw-Aubvh4Yyr8HnDXHjos_EBB41OOF2LH9a",
+            "widthPx": 497,
+            "heightPx": 497,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipMZWh6Rdlad6DI6XUzGkgo5cUSq3gnfXqU2EpyU&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMZWh6Rdlad6DI6XUzGkgo5cUSq3gnfXqU2EpyU!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DM7Y9JXC0GUChBY8OLbcGmHK4VLdvt7G0fpXqtToNUSHZRdhJZpbdygCB2V8fuxaarx-DlFnDiAni1MtKVmphd2mjwWU7mbDhJHNgGLnU8c-_CGYVOOYvWxU42BOYBPhFlpk1KUuOpJ8E5ZbaYf3a16rtwx65UfNg4c",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipNJUKOVQuqqEzpHkp6kdh6qe1SI2GGF-CTMov3z&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNJUKOVQuqqEzpHkp6kdh6qe1SI2GGF-CTMov3z!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DPfBiwaZWgBTioJ-IODMcAIOH4ELgbnxqCbj79xroAz9fwnCwHIUTxSIiJ3sSfF2v1jGyKvycWWs8uXefOZKaebNr83ZTal3IBn8ywdsOvPYm0VICkDofRrME6PhCX2hdrLigHxv-k8_gnYcgZ21O26Q-YYMm0AZmxM",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipNX2eJEKa20qw0-Ncech4ecG3piaKzpVvMn0AfO&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNX2eJEKa20qw0-Ncech4ecG3piaKzpVvMn0AfO!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DMWIVqg2yCzJ5h0-JoQ_AVqLAeZKeShMIMuKmDo8lfBM5lcdm3sETOfLF-NevkYCm5hAZn9_WY_xT7mPBOndhmue-wuI437DuTyXZpZz7_PLIWBE-1Y-de6vXIIfEM_v3JI2kkN6QfBexxThdLkLwB8y_KmLOVGOqST",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipPHHrKuiLfp20GoOkgjiVn41329WUT-2B8Y1XAR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPHHrKuiLfp20GoOkgjiVn41329WUT-2B8Y1XAR!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DObzzQxJ3-O3LiGozhT6GpAPyU6QsZYyqGGaW5mHYJjWquPyiA5inzRqbjoAg-6qM6PEz9KCpgZTf5RIh0A4htLZhnqcMzNeJRAVuLSk8DMr13020bb5HNoQ-zwAEZS5PEhNxqqFqGXgDNo0DD4-M4P2QgqqWfX3WUv",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipPO_-mbJHfytOsV8J_FxJbcBlWrpIYkmqVNfUz-&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPO_-mbJHfytOsV8J_FxJbcBlWrpIYkmqVNfUz-!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DNrX7smYddz5qtK1nc1n7lX4kHkRtCVDQoeyVlC2ul4A_SF-Qi22SqscqCpx6pUw9XRMbn4bKNTJkdiz-A9A3spcKSuOwVclicDdM9jd0X5g6vwEJAv4qHI1BmO_R_seaIWKQyC0qu2JNlk-W-wrwXYeLm19MhTGRQz",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Estação de carregamento para veículos elétricos",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipOSyAb05jK77FzDurk02r4bJhTtvNyzI43g1S7s&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSyAb05jK77FzDurk02r4bJhTtvNyzI43g1S7s!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          }
+        ],
+        "evChargeOptions": {
+          "connectorCount": 1,
+          "connectorAggregation": [
+            {
+              "type": "EV_CONNECTOR_TYPE_TYPE_2",
+              "maxChargeRateKw": 22,
+              "count": 1
+            }
+          ]
+        },
+        "addressDescriptor": {
+          "landmarks": [
+            {
+              "name": "places/ChIJ3UDj3DFYzpQR7UNdQrn3Qe4",
+              "placeId": "ChIJ3UDj3DFYzpQR7UNdQrn3Qe4",
+              "displayName": {
+                "text": "Instituto de Depilação Vanessa",
+                "languageCode": "pt"
+              },
+              "types": [
+                "beauty_salon",
+                "establishment",
+                "hair_care",
+                "point_of_interest"
+              ],
+              "spatialRelationship": "ACROSS_THE_ROAD",
+              "straightLineDistanceMeters": 24.215391,
+              "travelDistanceMeters": 3.5649738
+            },
+            {
+              "name": "places/ChIJTenRATFYzpQRFQJlK9zAko0",
+              "placeId": "ChIJTenRATFYzpQRFQJlK9zAko0",
+              "displayName": {
+                "text": "a + Diagnostic Medicine",
+                "languageCode": "en"
+              },
+              "types": [
+                "establishment",
+                "health",
+                "point_of_interest"
+              ],
+              "spatialRelationship": "DOWN_THE_ROAD",
+              "straightLineDistanceMeters": 63.280476,
+              "travelDistanceMeters": 57.641987
+            },
+            {
+              "name": "places/ChIJpZsX7zFYzpQRPv83wEH8_jU",
+              "placeId": "ChIJpZsX7zFYzpQRPv83wEH8_jU",
+              "displayName": {
+                "text": "Prevent Senior",
+                "languageCode": "pt"
+              },
+              "types": [
+                "establishment",
+                "health",
+                "point_of_interest"
+              ],
+              "spatialRelationship": "AROUND_THE_CORNER",
+              "straightLineDistanceMeters": 44.855576,
+              "travelDistanceMeters": 50.93952
+            },
+            {
+              "name": "places/ChIJJRu9lD5YzpQRhe7zuxxdAB4",
+              "placeId": "ChIJJRu9lD5YzpQRhe7zuxxdAB4",
+              "displayName": {
+                "text": "I4PRO",
+                "languageCode": "en"
+              },
+              "types": [
+                "establishment",
+                "point_of_interest"
+              ],
+              "spatialRelationship": "BESIDE",
+              "straightLineDistanceMeters": 8.4485655,
+              "travelDistanceMeters": 2.5763092
+            },
+            {
+              "name": "places/ChIJJw2mwzFYzpQRugOBZUtYUA4",
+              "placeId": "ChIJJw2mwzFYzpQRugOBZUtYUA4",
+              "displayName": {
+                "text": "Maraton Restaurante Self Service",
+                "languageCode": "pt"
+              },
+              "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+              ],
+              "spatialRelationship": "DOWN_THE_ROAD",
+              "straightLineDistanceMeters": 31.838005,
+              "travelDistanceMeters": 24.201675
+            }
+          ],
+          "areas": [
+            {
+              "name": "places/ChIJLbKsqspZzpQRflMUqtJkSPE",
+              "placeId": "ChIJLbKsqspZzpQRflMUqtJkSPE",
+              "displayName": {
+                "text": "Consolação",
+                "languageCode": "en"
+              },
+              "containment": "OUTSKIRTS"
+            },
+            {
+              "name": "places/ChIJLz5GwjFYzpQROOraKGbMeYI",
+              "placeId": "ChIJLz5GwjFYzpQROOraKGbMeYI",
+              "displayName": {
+                "text": "Maraton Restaurante Self Service",
+                "languageCode": "pt"
+              },
+              "containment": "OUTSKIRTS"
+            },
+            {
+              "name": "places/ChIJVbX69jtYzpQR3dVM0Q2FZ_Q",
+              "placeId": "ChIJVbX69jtYzpQR3dVM0Q2FZ_Q",
+              "displayName": {
+                "text": "Higienópolis",
+                "languageCode": "en"
+              },
+              "containment": "OUTSKIRTS"
+            }
+          ]
+        },
+        "googleMapsLinks": {
+          "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e!3e0",
+          "placeUri": "https://maps.google.com/?cid=3381081181821731342",
+          "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e!12e1",
+          "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e!9m1!1b1",
+          "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e!10e5"
+        }
+      }
+    ],
+    "contextualContents": [
+      {
+        "photos": [
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DOOlfwdc_Xfim-wmkyUPMXivAMBKK_ET58EICzPqHhL9xRTZJeFqt2BMM5tLyy5LcCYI1lgiuSA3gHycWqUCBkZVrJGlRvjjOH-InAVp9gan-yqX0gn2wl_6_773sj_N1nU6phl1AjvxH6kMmtn7acHjy52hjMsDUYj",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "From a Google User",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipOPvw55nu7PJ7rdH0Lt3GHpvHjeeW8nDOwa1pc5&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOPvw55nu7PJ7rdH0Lt3GHpvHjeeW8nDOwa1pc5!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DO8hX51jWViXzrZ15puruCZchaJWQBkADwe7iorBceE5fz2LXCCoXoflfq-4jPhDJKG3MTYdEuIrA4BbMb3BYkhLosvC4wHw4Zj7kmn5b-zjw4dCJly97cjwrwfQjwaDnlFgAyqoq1PhARisykZbEh7SElrzPgR-g_y",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "From a Google User",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipOSyAb05jK77FzDurk02r4bJhTtvNyzI43g1S7s&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSyAb05jK77FzDurk02r4bJhTtvNyzI43g1S7s!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DPpYvOY4APuwxX7rzQUpTbT1R2d9_d-9mBQphpb_lhCZIsf2K9f4AAAPAPZwWzB72PW0PM1YaKheuuuI66Gx1aWuw-voAJMIep-SAYnSQZ-2II7e7nFj17otNYxuD2bGUVse656ln0qa74pa-tieBv5DyCr6jktR-s3",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "From a Google User",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipOtESNrXhWrCWvQ-7Xw6gtnpdAiKm6bRbPBB9Hu&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOtESNrXhWrCWvQ-7Xw6gtnpdAiKm6bRbPBB9Hu!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DOYxqLDlnqjdib7O3yumcc2Dw-NiRSyWY5hSe49hzPJMBe44pX6swk7iCbBeVzfJ0sdjUeYFFR5GOAhC-wiWE8lGmpjcrNdfhJ-KKSSzEvi-hOe7m5NIhgtBaYF_WQ1RTanHL_3tYhZz7_Yyjh5KxzBOv94CAyxlCA0",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "From a Google User",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipPpdwvBPudlv225-voy6eUyz05HACG2-tkkjY6S&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPpdwvBPudlv225-voy6eUyz05HACG2-tkkjY6S!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          },
+          {
+            "name": "places/ChIJ-3SYLeVZzpQRDgI-z2sD7C4/photos/AdCG2DOP_dC6NPf-10RTAJxPR10n7walr0cwyQ96T2Eb7-_LZyFfvJ5NyNtnJ-rAyWZe1Slwno3jV1pxv79fPNgmtuoPCEAkq1S-ajWKeJmzcinS-JhtcEU5kIMwFde0dQ7bAbvjI0ygUjWoqpCFF0fWmVTmJQsHUGQvlN3s",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "From a Google User",
+                "uri": "https://maps.google.com/maps/contrib/114958898357272747341",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJhgFavusgvlQw3XcRCmYT23hFRkIw3w3GcJuBnfAhaHkD_Q=s100-p-k-no-mo"
+              }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places&image_key=!1e10!2sAF1QipP4LXCFhynZYCQaeZv5xbi3qeXJyUEtiAFlKOaM&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4LXCFhynZYCQaeZv5xbi3qeXJyUEtiAFlKOaM!2e10!4m2!3m1!1s0x94ce59e52d9874fb:0x2eec036bcf3e020e"
+          }
+        ]
+      }
+    ],
+    "nextPageToken": "AdCG2DOvkYHOoimQRdS_g6_VhvyfSAjeTYH7EIZJAExXAsfP9eyq_VSQ7E6ebdIzDFeOEM9aszk1mqQ9483gV_dt9JkkY6vNN8HCNw7vQc8CI6b5",
+    "searchUri": "https://www.google.com/maps/search/pontos+de+carregamento+de+carros+el%C3%A9tricos"
+  }
+  
