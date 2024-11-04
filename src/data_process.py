@@ -27,14 +27,14 @@ def get_charging_stations():
     for city in cities:    
         api_key = params["API_KEY"]
         base_url = "https://places.googleapis.com/v1/places:searchText"
-        maxResultCount = 20
+        maxResultCount = 5
         places = PlacesAPI(city, base_url, api_key, maxResultCount)
         response = places.post()
         total_response += response['places']
-        while "nextPageToken" in response.keys():
-            places = PlacesAPI(city, base_url, api_key, maxResultCount, pageToken=response["nextPageToken"])
-            response = places.post()
-            total_response += response['places']
+        #while "nextPageToken" in response.keys():
+        #    places = PlacesAPI(city, base_url, api_key, maxResultCount, pageToken=response["nextPageToken"])
+        #    response = places.post()
+        #    total_response += response['places']
 
     return total_response
 
